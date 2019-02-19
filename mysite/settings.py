@@ -25,7 +25,7 @@ SECRET_KEY = 'ka3#_4yq=h3n8$h*%c$=*kmvf-@xb(31l&h1+8wv9y$h06$x6l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . memedelangel.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', ' . http://memedelangel.pythonanywhere.com/']
 
 
 # Application definition
